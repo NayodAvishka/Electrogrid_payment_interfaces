@@ -1,0 +1,13 @@
+.container{
+	padding-top: 40px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+
+.panel-heading{
+	border: 2px solid Chartreuse;
+	padding : 20px;
+	margin-left: 20px;
+	margin-right: 450px;
+}
